@@ -1,2 +1,5 @@
-# alogan1063
-Data Structures 1063
+# 1063-DS-Logan
+![](face.jpg)
+
+Asaiah Logan 
+asaiahlogan@hotmail.com
